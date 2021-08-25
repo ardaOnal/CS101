@@ -1,0 +1,2 @@
+The average is: 5.5
+The maximum value is 9 and the minimum value is 2

@@ -1,0 +1,6 @@
+list of topics  will need to study,
+Web Page Design(CSS)
+CommandPrompt usage
+Spreadsheet usage
+Unix/Linux knowlage
+FTP usage

@@ -1,0 +1,3 @@
+Count of the numbers is 100.0 and the sum is 5324.0
+The average is: 53.24
+The maximum value is 98 and the minimum value is -2
