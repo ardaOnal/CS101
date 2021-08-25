@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+/**
+ * 
+ * 
+ * 
+ */
+public class Lab07a
+{
+   public static void main( String[] args)
+   {
+      // variables
+      int firstDice;
+      int secondDice;
+      
+      // program code
+      firstDice = (int)(Math.random() * 6) + 1;
+      secondDice = (int)(Math.random() * 6) + 1;
+      
+      System.out.println( firstDice);
+      System.out.println( secondDice);
+      
+      
+         
+   }
+}
